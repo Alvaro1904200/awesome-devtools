@@ -194,6 +194,12 @@
 
 ## 🎯 Productivity
 
+### Codex Contexts: codex-profiles
+- **Why:** Keeps named Codex CLI and macOS ChatGPT Desktop local state separate without copying tokens
+- **Best for:** Developers switching between personal, work, and client Codex contexts
+- **Pricing:** Free and open source
+- [Learn more](https://github.com/Ducksss/codex-profiles)
+
 ### Design: Figma
 - **Why:** Collaborative design, great free tier
 - **Best for:** UI/UX design
