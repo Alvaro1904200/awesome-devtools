@@ -212,6 +212,12 @@
 - **Pricing:** Free for personal use
 - [Try Notion](https://notion.so)
 
+### JSON inspection: BestJSON
+- **Why:** Inspect JSON and proposed repairs locally in the browser
+- **Best for:** Formatting, syntax validation and comparing saved API responses
+- **Pricing:** Free; no account or credit card required
+- [Open BestJSON](https://bestjson.com/)
+
 ### Communication: Discord
 - **Why:** Great for communities, free
 - **Best for:** Developer communities
